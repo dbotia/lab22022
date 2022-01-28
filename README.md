@@ -2,6 +2,15 @@
 
 [![Build Status](https://app.travis-ci.com/dbotia/lab22022.svg?branch=main)](https://app.travis-ci.com/dbotia/lab22022)
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=lab22022&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=lab22022)
+
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=lab22022&metric=bugs)](https://sonarcloud.io/summary/new_code?id=lab22022)
+
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=lab22022&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=lab22022)
+
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=lab22022&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=lab22022)
+
+
 Implementation of a Simple Calculator with the next operations:
 
 * Add
