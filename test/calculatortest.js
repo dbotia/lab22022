@@ -9,7 +9,7 @@ describe("Calculator -test", function () {
       expect(calculator.add(1, 1)).to.equal(1 + 1);
     });
     it("Testing the minus operation", function () {
-      expect(calculator.minus(1, 1)).to.equal(1 - 1);
+      expect(calculator.minus(4, 4)).to.equal(4 - 4);
     });
 
     it("Testing the multiply operation", function () {
