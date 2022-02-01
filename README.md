@@ -10,6 +10,7 @@
 
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=lab22022&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=lab22022)
 
+[![Coverage Status](https://coveralls.io/repos/github/dbotia/lab22022/badge.svg)](https://coveralls.io/github/dbotia/lab22022)
 
 Implementation of a Simple Calculator with the next operations:
 
